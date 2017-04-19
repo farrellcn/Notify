@@ -1,0 +1,23 @@
+
+1. apiDemo 目录存放 api demo 代码
+	开发者账号信息查询
+	    accountInfo.php
+
+	验证码通知短信接口
+	    industrySMS.php
+
+	会员营销短信接口
+	    affMarkSMS.php
+
+	短信邮会员营销
+	    affMarkEmailSMS.php
+
+	短信邮验证码通知短信接口
+	    industryEmailSMS.php
+
+	发送语音验证码接口
+	    voiceCode.php
+
+
+2. huiDiao 存放平台回调开发者的接口
+    TODO
